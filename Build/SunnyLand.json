@@ -3,14 +3,13 @@
 "productName": "SunnyLand",
 "productVersion": "v0.0.2",
 "dataUrl": "SunnyLand.data.unityweb",
-"wasmCodeUrl": "SunnyLand.wasm.code.unityweb",
+"wasmCodeUrl": "SunnyLand.wasm",
 "wasmFrameworkUrl": "SunnyLand.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.17f1"
+"unityVersion": "2019.4.19f1"
 }
