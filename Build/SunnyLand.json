@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "test_fox",
-"productVersion": "0.1",
+"companyName": "researcherA",
+"productName": "SunnyLand",
+"productVersion": "v0.0.1",
 "dataUrl": "SunnyLand.data.unityweb",
 "wasmCodeUrl": "SunnyLand.wasm.code.unityweb",
 "wasmFrameworkUrl": "SunnyLand.wasm.framework.unityweb",
