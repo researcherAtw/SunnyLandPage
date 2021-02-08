@@ -1,0 +1,16 @@
+{
+"companyName": "researcherA",
+"productName": "SunnyLand_v.0.0.8",
+"productVersion": "v0.0.8",
+"dataUrl": "f6663e5940764fbf34fbb260af376935.unityweb",
+"wasmCodeUrl": "e339da49610d759c2b571e5979597f0e.unityweb",
+"wasmFrameworkUrl": "127aef74e5b422d08d7c92d42241f03d.unityweb",
+"wasmSymbolsUrl": "400b2dc256ed3ae299a64cdedf7d4bf8.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
