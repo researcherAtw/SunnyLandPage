@@ -1,0 +1,16 @@
+{
+"companyName": "researcherA",
+"productName": "v0.1.2",
+"productVersion": "v0.1.2",
+"dataUrl": "8831a8a15750c7ae0c2b1655eefaa72d.unityweb",
+"wasmCodeUrl": "4285691265b18f0a57ca86746d1ba955.unityweb",
+"wasmFrameworkUrl": "e44f4667f23cf4d79e3b1cf0b4646b15.unityweb",
+"wasmSymbolsUrl": "948a26be13d9e9360ee85e6891fa954d.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
